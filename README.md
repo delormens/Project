@@ -17,7 +17,7 @@
 ## Инструкции по установке
 
 1. Убедитесь, что у вас установлен Python.
-2. Скачайте проект с GitHub: [ссылка на проект](https://github.com/your_username/your_repository).
+2. Скачайте проект с GitHub: [ссылка на проект](https://github.com/your_username/your_repository](https://github.com/delormens/project).
 3. Установите необходимые библиотеки, выполнив команду:
 
    ```bash
